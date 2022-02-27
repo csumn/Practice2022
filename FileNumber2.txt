@@ -10,3 +10,6 @@ The above is just a sample for understanding the workflow
 
 class A{
 }
+
+class B{
+}
